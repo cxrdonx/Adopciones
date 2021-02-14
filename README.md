@@ -1,2 +1,3 @@
 # Adopciones
-consultas SQL
+consultas SQL </br>
+Busca y actualiza datos de una tabla
